@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello, My name is Caleb Wilson. I am a student at Wright State University, I am studying Computer Engineering.
-Steph CurryS
